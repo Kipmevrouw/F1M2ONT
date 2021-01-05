@@ -32,7 +32,6 @@ nav li + li {
 nav a{
     color: wheat;
     text-decoration: none;
-    display: black;
     padding: 10px;
 }
 nav a:hover{
